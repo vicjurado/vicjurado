@@ -25,4 +25,4 @@
 <a href="https://www.java.com/" target="_blank"> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" title="Java"/> </a>&nbsp; 
 <a href="https://www.php.net/" target="_blank"> <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" title="PHP"/></a> &nbsp; 
 <a href="https://www.figma.com/" target="_blank"> <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" title="FIGMA"/> </a>&nbsp;
-<a href="https://numpy.org/doc/" target="_blank"> <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop" title="Adobe Photoshop"/> </a>&nbsp;
+<a href="https://www.adobe.com/" target="_blank"> <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop" title="Adobe Photoshop"/> </a>&nbsp;
